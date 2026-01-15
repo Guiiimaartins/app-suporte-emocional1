@@ -9,10 +9,6 @@ const nextConfig = {
       },
     ],
   },
-  // Otimizações para build na Vercel
-  eslint: {
-    ignoreDuringBuilds: true,
-  },
   typescript: {
     ignoreBuildErrors: false,
   },
